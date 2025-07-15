@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Leilao\Model;
+namespace Raquel\Leilao\Model;
 
 class Leilao
 {
